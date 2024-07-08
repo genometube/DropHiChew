@@ -3,7 +3,7 @@ Droplet based (10x) high efficient chromatin conformation capture
 
 This repository contains all the code that was used to preprocess and analyze DropHiChew data from raw fastq to the tabular data. At the start of each file, dependencies like essential libraries or fixed paths to software and data files are declared, which are required for the scripts to function properly.
 
-# Speed and resource of DropHiChew data preprocessing
+## Speed and resource of DropHiChew data preprocessing
 Sample: One lane of MGI T7 PE100 sequencing raw fastq.gz data, 5000 million reads, 7000 cells of HEK293T.
 
 Steps and Performance
