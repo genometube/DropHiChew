@@ -13,11 +13,9 @@ Sample: a typical DropHiChew run of 7000 HEK293T cells, producing one lane of MG
 Steps and Performance
 
 Demultiplexing: Approximately 1.5 days
-
 Resources: 10 threads in parallel (Intel Xeon Platinum 8475B 2.7 GHz), approximately 40GB of memory, and runs on a 2T Alibaba Cloud PL0 ESSD which delivers up to 10,000 IOPS.
 
 Hi-C Pro Processing: Approximately 3 days
-
 Resources: 20 parallel tasks (Intel Xeon Platinum 8475B 2.7 GHz), each task using 2 threads and 10GB of memory, and runs on Alibaba Cloud NAS.
 
 
