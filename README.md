@@ -6,6 +6,7 @@ This repository contains all the code that was used to preprocess and analyze Dr
 For loop velocity analysis in R. Loop velocity can refer to https://github.com/Dekayzc/Loopvelocity
 
 
+
 ## Speed and resource of DropHiChew data preprocessing
 Sample: a typical DropHiChew run of 7000 HEK293T cells, producing one lane of MGI T7 PE100 sequencing raw fastq.gz data, 5000 million reads.
 
